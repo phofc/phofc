@@ -225,8 +225,6 @@ above with cards similar to:
 
 </div>
 
-> `SYSTEM NOTE:` Contribution animation module will be activated through GitHub Actions.
-
 ---
 
 ## `> COMMUNICATION.CHANNEL`
