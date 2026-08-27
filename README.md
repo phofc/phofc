@@ -171,48 +171,6 @@ above with cards similar to:
 
 ---
 
-## `> GITHUB.ANALYTICS`
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=phofc&show_icons=true&theme=transparent&hide_border=false&title_color=00D9FF&text_color=E6F7FF&icon_color=00D9FF&border_color=164E63&bg_color=020617"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phofc&layout=compact&theme=transparent&hide_border=false&title_color=00D9FF&text_color=E6F7FF&border_color=164E63&bg_color=020617"/>
-
-</div>
-
----
-
-## `> SYSTEM.STREAK`
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=phofc&theme=transparent&hide_border=false&border=164E63&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=E6F7FF&dates=94A3B8&currStreakNum=E6F7FF&sideNums=E6F7FF&background=020617" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## `> ACTIVITY.MONITOR`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=phofc&bg_color=020617&color=00D9FF&line=00D9FF&point=E6F7FF&area=true&hide_border=false&custom_title=PH%20%2F%2F%20ACTIVITY%20MONITOR" width="100%" alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
-## `> ACHIEVEMENTS`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=phofc&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 ## `> CONTRIBUTION.PROTOCOL`
 
 <div align="center">
